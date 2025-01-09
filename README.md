@@ -1,5 +1,5 @@
 ## Hi there 👋
-## (justynamichaliik.github.io)
+## [strona](justynamichaliik.github.io)
 <!--
 **justynamichaliik/justynamichaliik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
